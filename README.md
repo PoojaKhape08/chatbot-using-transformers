@@ -32,22 +32,8 @@ The chatbot interacts with users, understands queries, and generates meaningful 
 ---
 
 ## Sample Output
-Chatbot: Hello! I am your AI assistant. How can I help you today?
 
-User: Hello
-Chatbot: Hello! Nice to meet you. How can I assist you today?
-
-User: What is Artificial Intelligence?
-Chatbot: Artificial Intelligence refers to the simulation of human intelligence by machines...
-
-User: Who created Python?
-Chatbot: Python was created by Guido van Rossum and released in 1991.
-
-User: Thank you
-Chatbot: You're welcome! Feel free to ask more questions.
-
-User: exit
-Chatbot: Chatbot ends the conversation
+<img width="1749" height="552" alt="image" src="https://github.com/user-attachments/assets/950abec7-39b4-40ae-b7cc-25f9c843ff74" />
 
 ---
 
